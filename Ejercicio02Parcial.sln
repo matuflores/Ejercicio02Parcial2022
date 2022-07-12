@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32407.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrianguloEJ02", "TrianguloEJ02\TrianguloEJ02.csproj", "{DDE1AB79-45B8-4CFE-9C06-80CC46BDB48D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrianguloEJ02.Consola", "TrianguloEJ02.Consola\TrianguloEJ02.Consola.csproj", "{A7B3B2AA-2366-4B2B-BBEE-7C6ED30B7BA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DDE1AB79-45B8-4CFE-9C06-80CC46BDB48D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDE1AB79-45B8-4CFE-9C06-80CC46BDB48D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDE1AB79-45B8-4CFE-9C06-80CC46BDB48D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDE1AB79-45B8-4CFE-9C06-80CC46BDB48D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7B3B2AA-2366-4B2B-BBEE-7C6ED30B7BA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7B3B2AA-2366-4B2B-BBEE-7C6ED30B7BA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7B3B2AA-2366-4B2B-BBEE-7C6ED30B7BA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7B3B2AA-2366-4B2B-BBEE-7C6ED30B7BA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E29B156-5E0C-4860-9FA5-A7BD8F8AA1E6}
+	EndGlobalSection
+EndGlobal
